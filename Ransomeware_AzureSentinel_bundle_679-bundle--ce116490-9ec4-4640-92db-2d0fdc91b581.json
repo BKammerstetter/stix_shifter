@@ -622,12 +622,12 @@
             "id": "observed-data--b4e1ec66-60d4-48ff-a0f2-caafc88406a4",
             "number_observed": 1,
             "first_observed": "2021-09-09T10:13:15.000000Z",
-            "last_observed": "2021-09-27T15:49:50.000000Z",
+            "last_observed": "2021-08-20T15:49:50.000000Z",
             "created": "2021-09-09T10:06:15.000Z",
             "modified": "2021-09-09T10:06:15.000Z",
             "objects": {
                 "0": {
-                    "value": "192.168.1.192",
+                    "value": "9.168.0.34",
                     "type": "ipv4-addr"
                 },
                 "1": {
